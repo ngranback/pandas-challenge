@@ -1,5 +1,5 @@
 # pandas-challenge
-Data Science Bootcamp Week 4 Homework - Pandas
+Data Science Bootcamp Week 4 challenge - Pandas
 
 This notebook will step through multiple analyses of a single csv.
 The purchase data will be analyzed and summarized based on gender, age, and item type.
