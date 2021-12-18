@@ -9,4 +9,3 @@ The "average purchase per player" column of the age-focused purchase analysis ta
 I tried to:
    1. sum the purchases by each individual player,
    2. average the totaled purchases from all players in each age group.
-Something is not right, but I can't figure out what.
